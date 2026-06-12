@@ -16,10 +16,6 @@ I am a backend and mobile developer with a strong focus on cybersecurity, system
 - **Security Tools:** jadx, apktool, Android Debug Bridge (ADB)
 - **Infrastructure:** Linux, Git, GitHub Actions
 
-### 📈 GitHub Stats
-![Harinandh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinandhreddy0411&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harinandhreddy0411&layout=compact&theme=radium)
-
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/harinandhreddy](https://linkedin.com/in/harinandhreddy)
 - **Email:** harinandhreddy@gmail.com
