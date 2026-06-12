@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Harinandh Reddy Areti 👋
 
-<!--
-**harinandhreddy0411/harinandhreddy0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ Amrita Vishwa Vidyapeetham | Open Source Contributor | Security Enthusiast**
 
-Here are some ideas to get you started:
+I am a backend and mobile developer with a strong focus on cybersecurity, system architecture, and cloud-native environments. I bridge the gap between finding vulnerabilities and building secure, resilient infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm doing right now
+- **Open Source:** Actively contributing to the core Go-based engine of **Kyverno** (CNCF).
+- **Security:** Conducting mobile application vulnerability analysis and penetration testing. 
+- **Development:** Architecting native Android applications using Java, `ContentProviders`, and Retrofit, alongside building responsive web platforms.
+- **Problem Solving:** Honing my algorithmic skills through competitive programming on Codeforces, HackerEarth, and HackerRank.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Go, Java, Python, C++, JavaScript, HTML/CSS
+- **Mobile & Web:** Android SDK, Retrofit, React.js 
+- **Security Tools:** jadx, apktool, Android Debug Bridge (ADB)
+- **Infrastructure:** Linux, Git, GitHub Actions
+
+### 📈 GitHub Stats
+![Harinandh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harinandhreddy0411&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harinandhreddy0411&layout=compact&theme=radium)
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/harinandhreddy](https://linkedin.com/in/harinandhreddy)
+- **Email:** harinandhreddy@gmail.com
