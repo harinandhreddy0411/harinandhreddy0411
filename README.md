@@ -11,7 +11,7 @@ I am a backend and mobile developer with a strong focus on cybersecurity, system
 - **Problem Solving:** Honing my algorithmic skills through competitive programming on Codeforces, HackerEarth, and HackerRank.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Go, Java, Python, C++, JavaScript, HTML/CSS
+- **Languages:** Go, Java, Python, C, JavaScript, HTML/CSS
 - **Mobile & Web:** Android SDK, Retrofit, React.js 
 - **Security Tools:** jadx, apktool, Android Debug Bridge (ADB)
 - **Infrastructure:** Linux, Git, GitHub Actions
